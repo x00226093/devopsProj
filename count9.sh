@@ -1,2 +1,2 @@
-echo 9
+echo NINE
 bash count10.sh

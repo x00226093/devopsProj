@@ -1,2 +1,2 @@
-echo 7
+echo SEVEN
 bash count8.sh

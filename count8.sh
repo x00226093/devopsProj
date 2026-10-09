@@ -1,2 +1,2 @@
-echo 8
+echo EIGHT
 bash count9.sh
