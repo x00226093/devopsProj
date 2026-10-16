@@ -1,2 +1,1 @@
-echo ONE
-bash count2.sh
+echo "1(ONE)"
